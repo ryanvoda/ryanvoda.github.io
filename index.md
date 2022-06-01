@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This site will serve to showcase my statistical prowess, expertise in coding/computing, and brilliant research.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+At the moment, I'm focused on conducting COVID research.
